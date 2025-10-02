@@ -1,0 +1,9 @@
+### Temp object files ###
+build/*
+
+### Executable binary ###
+run-tests
+
+### System ###
+.DS_Store
+*.log
